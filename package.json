@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/stable-json-stringify",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Deterministic JSON serialization with recursive key ordering.",
   "keywords": [
     "javascript",
